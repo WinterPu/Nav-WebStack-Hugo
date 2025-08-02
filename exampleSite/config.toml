@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://winterpu.github.io/nav-webstack-hugo/"
 languageCode = "zh-CN"
 title = "WebStack网址导航 Hugo主题"
-theme = "webstack-hugo"
+theme = "nav-webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true

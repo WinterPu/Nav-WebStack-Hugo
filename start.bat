@@ -1,0 +1,1 @@
+cd exampleSite && hugo server --themesDir ../.. --theme nav-webstack-hugo 
